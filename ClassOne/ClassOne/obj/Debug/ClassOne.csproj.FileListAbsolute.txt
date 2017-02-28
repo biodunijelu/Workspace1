@@ -1,0 +1,6 @@
+C:\VatebraAcademyTraining\Workspace\ClassOne\ClassOne\bin\Debug\ClassOne.exe.config
+C:\VatebraAcademyTraining\Workspace\ClassOne\ClassOne\bin\Debug\ClassOne.exe
+C:\VatebraAcademyTraining\Workspace\ClassOne\ClassOne\bin\Debug\ClassOne.pdb
+C:\VatebraAcademyTraining\Workspace\ClassOne\ClassOne\obj\Debug\ClassOne.csprojResolveAssemblyReference.cache
+C:\VatebraAcademyTraining\Workspace\ClassOne\ClassOne\obj\Debug\ClassOne.exe
+C:\VatebraAcademyTraining\Workspace\ClassOne\ClassOne\obj\Debug\ClassOne.pdb
